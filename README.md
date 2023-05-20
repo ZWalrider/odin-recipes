@@ -1,3 +1,3 @@
 # odin-recipes
-My first Odin project
-Creating a website to determine if basic HTML knowledge has been acquired.
+<p>My first Odin project</p>
+<p>Creating a website to determine if basic HTML knowledge has been acquired.</p>
