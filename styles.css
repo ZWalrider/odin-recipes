@@ -1,3 +1,18 @@
 * {
    font-family: Verdana, sans-serif;
 }
+
+h1 {
+   color: black;
+   background-color: #b3802f;
+   text-align: center;
+}
+
+#recipes-list {
+   font-size: 22px;
+}
+
+img {
+   width: 500px;
+   height: auto;
+}
